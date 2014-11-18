@@ -1,6 +1,6 @@
 #!/usr/bin/env python2.7
 #
-# SMTP stress test and 0ld sch00L email bombing
+# SMTP and email stress testing tool
 # Jonas Thambert
 #
 # 
